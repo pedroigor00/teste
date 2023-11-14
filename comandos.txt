@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "primeiro"
+git branch teste1
+git branch
+git checkout nova brachn
